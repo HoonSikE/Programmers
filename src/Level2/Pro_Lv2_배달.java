@@ -1,4 +1,4 @@
-package level2;
+package Level2;
 
 public class Pro_Lv2_배달 {
 	public static void main(String[] args) {
