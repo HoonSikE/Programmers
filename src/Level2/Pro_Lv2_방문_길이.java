@@ -1,5 +1,4 @@
 package Level2;
-
 /**
  * @author HanHoon
  * @category Summer/Winter Coding(~2018)
