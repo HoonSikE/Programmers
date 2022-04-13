@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * 
+ * https://programmers.co.kr/learn/courses/30/lessons/42888
+ */
 class User{
     String rec;
     String id;
