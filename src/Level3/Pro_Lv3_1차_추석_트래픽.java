@@ -1,7 +1,6 @@
 package Level3;
 
 import java.util.StringTokenizer;
-
 /**
  * @author HanHoon
  * @category 2018 KAKAO BLIND RECRUITMENT
