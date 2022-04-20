@@ -8,9 +8,9 @@ import java.math.BigInteger;
  */
 public class Pro_Lv2_멀쩡한_사각형 {
 	public static void main(String[] args){
-
+		System.out.println(solution(8, 12));
 	}
-    public long solution(int w, int h) {
+    public static long solution(int w, int h) {
         int gcd = BigInteger.valueOf(w).gcd(BigInteger.valueOf(h)).intValue();
         long answer = (long)w*(long)h-((long)w/gcd + (long)h/gcd -1) *gcd;
         return answer;
