@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 /**
  * @author HanHoon
- * 
+ * @category 스택/큐
  * https://programmers.co.kr/learn/courses/30/lessons/42583
  */
 public class Pro_Lv2_다리를_지나는_트럭 {
